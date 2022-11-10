@@ -8,11 +8,16 @@ td {
 
 .header {
   text-align: center;
-  font-size: 100px;
+  font-size: 30px;
 }
 
 .table {
-  margin: 50px auto 50px auto;
+  margin: 50px auto 10px auto;
   font-size: 15px;
   padding: 20px;
+}
+
+.align {
+  text-align: center;
+  font-size: 15px;
 }

@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="/style/css/nav.css" />
     <link rel="stylesheet" href="/style/css/section.css" />
     <link rel="stylesheet" href="/style/css/Signup.css" />
+    <link rel="stylesheet" href="/style/css/footer.css" />
   </head>
   <body>
     <nav>
@@ -41,9 +42,9 @@
         >
       </div>
     </nav>
-    <header class="header">회원가입</header>
 
     <section>
+      <div>회원가입</div>
       <table class="table">
         <tr>
           <th>아이디</th>
@@ -93,21 +94,25 @@
             <textarea
               name="address_detail"
               id="address_detail"
-              cols="60"
+              cols="55"
               rows="1"
               placeholder="상세주소를 입력하세요"
             ></textarea>
           </td>
         </tr>
       </table>
+
+      <div class="align">
+        <input type="checkbox" name="agree" value="agree" id="agree" />
+        <label for="agree">정보제공에 동의합니다.</label>
+
+        <br />
+        <button type="submit"><a href="/Login.html"> 확인</a></button>
+      </div>
     </section>
 
     <footer class="footer">
-      <input type="checkbox" name="agree" value="agree" id="agree" />
-      <label for="agree">정보제공에 동의합니다.</label>
-
-      <br />
-      <button type="submit"><a href="/Login.html"> 확인</a></button>
+      KH Cafe | Address: 서울시 강남구 테헤란로 130호 1F | Call☎: (02)123-4567
     </footer>
   </body>
 </html>
