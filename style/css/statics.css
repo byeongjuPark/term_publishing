@@ -1,9 +1,13 @@
 th {
-  font-size: 18px;
+  font-size: 14px;
   border: 1px solid black;
 }
+
 td {
-  padding-bottom: 15px;
+  padding: 7.5px 7.5px 7.5px 7.5px;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
 }
 tr > td {
   font-size: 14px;
