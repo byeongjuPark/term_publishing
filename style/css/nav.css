@@ -13,6 +13,8 @@ nav {
 }
 .inline {
   display: flex;
+  justify-content: space-between;
+  font-size: 15px;
 }
 .list-style-none {
   list-style: none;
