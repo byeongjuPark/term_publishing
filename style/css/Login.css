@@ -1,0 +1,33 @@
+/* * {
+  border: 1px dotted black;
+} */
+
+.header {
+  text-align: center;
+  font-size: 120px;
+  font-weight: bolder;
+  font-family: "Nanum Pen Script", cursive;
+}
+
+.table {
+  margin: 50px auto 50px auto;
+  font-size: 30px;
+  font-family: "Nanum Pen Script", cursive;
+}
+
+.td {
+  text-align: center;
+  font-size: 15px;
+}
+
+.footer {
+  text-align: end;
+  font-size: 20px;
+  font-family: "Nanum Pen Script", cursive;
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
