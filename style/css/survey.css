@@ -1,0 +1,21 @@
+th {
+  font-size: 18px;
+  border: 1px solid black;
+}
+tr > td {
+  font-size: 14px;
+  text-align: center;
+}
+.center {
+  text-align: center;
+}
+
+.margin-top {
+  margin-top: 20px;
+}
+input {
+  padding: 5px 10px 5px 10px;
+  border: 0;
+  background-color: pink;
+  color: chocolate;
+}
