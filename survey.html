@@ -7,6 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="/style/css/nav.css" />
     <link rel="stylesheet" href="/style/css/section.css" />
+    <link rel="stylesheet" href="./style/css/survey.css" />
   </head>
   <body>
     <nav>
@@ -42,10 +43,10 @@
     </nav>
     <section>
       <div>
-        <form action="get">
+        <form action="./End.html" method="get">
           <table>
             <tr>
-              <th>항목 번호</th>
+              <th>항목번호</th>
               <th colspan="5">문항</th>
             </tr>
             <tr>
@@ -108,7 +109,9 @@
               <td><input type="radio" name="Q5" id="" /> 매우 그렇다.</td>
             </tr>
           </table>
-          <div><input type="button" value="제출" /></div>
+          <div class="center margin-top">
+            <input type="submit" value="제출" />
+          </div>
         </form>
       </div>
     </section>
