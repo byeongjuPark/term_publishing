@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Signup</title>
+  </head>
+  <body>
+    <header>회원가입</header>
+
+    <section>
+      <table>
+        <tr>
+          <th>아이디</th>
+          <td><input type="text" name="user_id" id="user_id" /></td>
+        </tr>
+
+        <tr>
+          <th>비밀번호</th>
+          <td><input type="password" name="user_pw" id="user_pw" /></td>
+        </tr>
+
+        <tr>
+          <th>비밀번호 확인</th>
+          <td>
+            <input type="password" name="user_pw_check" id="user_pw_check" />
+          </td>
+        </tr>
+
+        <tr>
+          <th>이름</th>
+          <td><input type="text" name="user_name" id="user_name" /></td>
+        </tr>
+
+        <tr>
+          <th>
+            <label for="">생년월일</label>
+          </th>
+          <td><input type="date" name="Date" id="" /></td>
+        </tr>
+
+        <tr>
+          <th rowspan="2">주소</th>
+          <td>
+            <textarea
+              name="address"
+              id="address"
+              cols="20"
+              rows="1"
+              placeholder="지번"
+            ></textarea>
+            <button type="search">지번 검색</button>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <textarea
+              name="address_detail"
+              id="address_detail"
+              cols="60"
+              rows="1"
+              placeholder="상세주소를 입력하세요"
+            ></textarea>
+          </td>
+        </tr>
+    </section>
+
+    <footer>
+        <tr>
+          <td colspan="2">
+            <input type="checkbox" name="agree" value="agree" id="agree" />
+            <label for="agree">정보제공에 동의합니다.</label>
+          </td>
+        </tr>
+
+        <tr>
+          <th><button type="submit">확인</button></th>
+        </tr>
+      </table>
+    </footer>
+  </body>
+</html>
