@@ -7,17 +7,6 @@
   padding-left: 0;
 }
 
-.footer {
-  text-align: end;
-  font-size: 20px;
-  background-color: black;
-  color: white;
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  left: 0;
-}
-
 .font {
   font-size: 100px;
 }
