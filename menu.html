@@ -6,20 +6,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <link rel="stylesheet" href="/style/css/menu.css" />
+    <link rel="stylesheet" href="/style/css/login.css" />
   </head>
   <body>
     <nav>
       <div class="inline">
-        <span class="logo">KHCAFE</span>
+        <span class="logo"
+          ><a href="" target="_self" class="logo-button">KHCAFE</a></span
+        >
         <span
           ><ul class="inline list-style-none nav-pos">
-            <li><a href="" target="_self">Home</a></li>
-            <li>로그인</li>
-            <li>설문조사</li>
-            <li>통계</li>
+            <li><a href="" target="_self" class="nav-button">Home</a></li>
+            <li><a href="" target="_self" class="nav-button">로그인</a></li>
+            <li><a href="" target="_self" class="nav-button">설문조사</a></li>
+            <li><a href="" target="_self" class="nav-button">통계</a></li>
           </ul></span
         >
       </div>
     </nav>
+
+    <section>
+        <table>
+            <tr>
+              <th>ID</th>
+              <td><input type="text" name="user_id" id="user_id" /></td>
+            </tr>
+    
+            <tr>
+              <th>Password</th>
+              <td><input type="password" name="user_pw" id="user_pw" /></td>
+              <td><button type="submit">Login</button></td>
+            </tr>
+    
+              <td><a href="">회원가입</a></td>
+            </tr>
+          </table>
+    </section>
   </body>
 </html>

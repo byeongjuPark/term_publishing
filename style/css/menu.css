@@ -1,5 +1,12 @@
-* {
+/* * {
   border: 0.5px solid black;
+} */
+
+nav {
+  margin: 0 auto;
+  width: 400px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
 .logo {
   font-size: 40px;
@@ -11,7 +18,16 @@
 .list-style-none {
   list-style: none;
 }
-
+.logo-button {
+  text-decoration: none;
+  color: black;
+}
+.nav-button {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  padding-right: 5px;
+}
 .nav-pos {
   padding-left: 0px;
   margin-left: 15px;
