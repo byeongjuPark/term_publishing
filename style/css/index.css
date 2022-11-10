@@ -1,7 +1,10 @@
 .img {
   float: left;
 }
-
+.maintext {
+  font-family: "Gowun Batang", serif;
+  font-size: 24px;
+}
 .table {
   border-top: 3px solid black;
   padding-left: 0;
