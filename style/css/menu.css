@@ -1,0 +1,18 @@
+* {
+  border: 0.5px solid black;
+}
+.logo {
+  font-size: 40px;
+  font-weight: bold;
+}
+.inline {
+  display: flex;
+}
+.list-style-none {
+  list-style: none;
+}
+
+.nav-pos {
+  padding-left: 0px;
+  margin-left: 15px;
+}
