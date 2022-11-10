@@ -4,3 +4,10 @@ section {
   width: 600px;
   text-align: center;
 }
+
+section {
+  border: 0.5px solid rgba(128, 128, 128, 0.25);
+  background-color: rgb(227, 255, 255);
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
