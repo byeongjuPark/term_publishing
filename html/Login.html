@@ -18,29 +18,40 @@
     <nav>
       <div class="inline">
         <span class="logo"
-          ><a href="./index.html" target="_self" class="logo-button"
+          ><a href="../index.html" target="_self" class="logo-button"
             >KHCAFE</a
           ></span
         >
+
         <span
-          ><ul class="inline list-style-none nav-pos">
+          ><ul
+            class="inline list-style-none nav-pos ul_top_menu"
+            id="main-menu"
+          >
             <li>
-              <a href="./index.html" target="_self" class="nav-button">Home</a>
+              <a href="../index.html" target="_self" class="nav-button">Home</a>
             </li>
             <li>
-              <a href="./html/Login.html" target="_self" class="nav-button"
+              <a href="./Login.html" target="_self" class="nav-button"
                 >로그인</a
               >
+              <ul id="sub-menu">
+                <li><a href="./Login.html">로그인</a></li>
+                <li><a href="./Signup.html">회원가입</a></li>
+              </ul>
             </li>
             <li>
-              <a href="./html/survey.html" target="_self" class="nav-button"
-                >설문조사</a
-              >
+              <a href="#" target="_self" class="nav-button">설문조사</a>
+              <ul id="sub-menu">
+                <li><a href="./survey.html">설문조사</a></li>
+              </ul>
             </li>
             <li>
-              <a href="./html/static_answer.html" target="_self" class="nav-button"
-                >통계</a
-              >
+              <a href="#" target="_self" class="nav-button">통계</a>
+              <ul id="sub-menu">
+                <li><a href="./static_answer.html">문항별 통계</a></li>
+                <li><a href="./static_user.html">사용자별 통계</a></li>
+              </ul>
             </li>
           </ul></span
         >
