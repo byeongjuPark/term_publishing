@@ -28,7 +28,7 @@ body {
 
 #sub-menu > li {
   padding: 10px 5px 5px 5px;
-  border-bottom: 1px solid black;
+  border-bottom: 2px solid black;
 }
 
 #sub-menu > li > a {

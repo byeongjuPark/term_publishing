@@ -26,6 +26,6 @@ tr > td {
 input {
   padding: 5px 10px 5px 10px;
   border: 0;
-  background-color: pink;
-  color: chocolate;
+  background-color: rgb(155, 160, 169);
+  color: black;
 }
