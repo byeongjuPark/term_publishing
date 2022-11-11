@@ -12,12 +12,12 @@
 
 ## MEMBER & PART
 - 🥞박병주    
-● HTML : Index / Static(Answer & User) / Survey  
-● CSS  : Nav / Section / Index / Statics / Survey
+● HTML : [Index](https://github.com/byeongjuPark/term_publishing/blob/master/index.html) / [Static(Answer)](https://github.com/byeongjuPark/term_publishing/blob/master/html/static_answer.html) / [Static(User)](https://github.com/byeongjuPark/term_publishing/blob/master/html/static_user.html)  / [Survey](https://github.com/byeongjuPark/term_publishing/blob/master/html/survey.html)  
+● CSS  : [Nav](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/nav.css) / [Section](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/section.css) / [Index](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/index.css) / [Statics](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/statics.css) / [Survey](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/survey.css)
 
 - 🥯류연주  
-● HTML : Login / Signup / End  
-● CSS : Login / Signup / End / Dropdown / footer
+● HTML : [Login](https://github.com/byeongjuPark/term_publishing/blob/master/html/Login.html) / [Signup](https://github.com/byeongjuPark/term_publishing/blob/master/html/Signup.html) / [End](https://github.com/byeongjuPark/term_publishing/blob/master/html/End.html)  
+● CSS : [Login](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/Login.css) / [Signup](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/Signup.css) / [End](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/End.css) / [Dropdown](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/dropdown.css) / [footer](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/footer.css)
 
  
 
