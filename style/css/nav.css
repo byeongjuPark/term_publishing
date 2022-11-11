@@ -3,12 +3,14 @@
 } */
 
 nav {
+  background-color: #35477d;
   margin: 0 auto;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
 }
 .logo {
   font-size: 40px;
+  margin-left: 15px;
   font-weight: bold;
 }
 .inline {
@@ -21,7 +23,8 @@ nav {
 }
 .logo-button {
   text-decoration: none;
-  color: black;
+  color: rgba(255, 255, 255, 0.85);
+  text-shadow: black 3px;
 }
 .nav-button {
   text-decoration: none;
