@@ -11,10 +11,14 @@
 
 
 ## MEMBER & PART
-- 🥞박병주:    
+- 🥞박병주    
+● HTML : Index / Static(Answer & User) / Survey  
+● CSS  : Nav / Section / Index / Statics / Survey
 
+- 🥯류연주  
+● HTML : Login / Signup / End  
+● CSS : Login / Signup / End / Dropdown / footer
 
-- 🥯류연주:   
  
 
 ## REFER
@@ -24,7 +28,7 @@
 ## RUN
 - 🧇IMAGE & VIDEO  
 ⁕ [Run_Image](https://user-images.githubusercontent.com/115052767/201248528-4afee6cd-4cf0-41d5-991c-568a8a7048e0.png)  
-⁕ [YOUTUBE]()
+⁕ [YOUTUBE](https://www.youtube.com/watch?v=timmqVt2nmc)
 
 ## THE END...
 - 🍞프로젝트 소감  
