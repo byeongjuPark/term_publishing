@@ -1,4 +1,4 @@
-# ☕연병 TERM PUBLISHING PROJECT(CAFE SERVICE SURVEY)
+# ☕연병 TERM PUBLISHING PROJECT
 ## SURVEY TOPIC
 - 🥐KH CAFE 방문 고객에게 전달되는 고객 만족도 설문 조사 프로그램
 - 🧁KH CAFE 카페 이용 고객에 대한 서비스 만족도 조사 및 개선을 위한 목적  
@@ -12,11 +12,10 @@
 
 ## MEMBER & PART
 - 🥞박병주:    
-⁕ [Survey](https://github.com/Ryuyeonjoo/Team_Project/blob/main/src/Survey.java)  
-⁕ [SurveyQuestion](https://github.com/Ryuyeonjoo/Team_Project/blob/main/src/SurveyQuestion.java)
+
 
 - 🥯류연주:   
-⁕[SurveyMain](https://github.com/Ryuyeonjoo/Team_Project/blob/main/src/SurveyMain.java)  
+ 
 
 ## REFER
 - 🍩[화면 설계](https://github.com/byeongjuPark/term_publishing/blob/master/docs/02.%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84_V1.0_Template_%EC%97%B0%EB%B3%91.pdf)
