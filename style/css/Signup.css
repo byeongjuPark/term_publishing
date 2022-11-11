@@ -8,7 +8,8 @@ td {
 
 .header {
   text-align: center;
-  font-size: 100px;
+  color: rgb(68, 66, 66);
+  font-size: 30px;
 }
 
 .table {
