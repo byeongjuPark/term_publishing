@@ -6,3 +6,7 @@
 .text-decoration {
   text-decoration: none;
 }
+
+.center {
+  text-align: center;
+}

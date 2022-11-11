@@ -2,8 +2,9 @@ section {
   margin: 0 auto;
   margin-top: 50px;
 
-  width: 590px;
-  text-align: center;
+  /* width: 0 auto; */
+  /* text-align: center; */
+
   /* background-image: url("https://cdn.herenow.city/assets/uploads/sites/9/2019/02/19163424/73perhaps01-765x511.jpg"); */
 }
 
@@ -14,4 +15,9 @@ section {
   padding-bottom: 30px;
   font-size: 20px;
   font-weight: bolder;
+}
+.go-center {
+  margin-left: auto;
+
+  margin-right: auto;
 }
