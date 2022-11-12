@@ -20,7 +20,7 @@ body {
 
 #main-menu > li {
   float: left;
-  width: 110px;
+  width: 100px;
 }
 
 #main-menu > li > a {
@@ -41,7 +41,7 @@ body {
 
 #sub-menu > li {
   padding: 10px 5px 5px 5px;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid rgb(47, 44, 59);
   background-color: rgb(53, 71, 125);
 }
 
