@@ -16,19 +16,22 @@
 
 
 - 🥯류연주  
-● HTML : [Login](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/login.html) / [Signup](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/signup.html) / [End](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/end1.html) / [Survey](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/survey.html)  
+● [Login](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/login.html) / [Signup](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/signup.html) / [End](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/end1.html) / [Survey](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/survey.html)  
 
+## RUN
+- 🧇IMAGE & VIDEO  
+⁕ [Run_Image](https://user-images.githubusercontent.com/115052767/206595062-3bdbf8d9-ce38-47fd-b3bd-f167c9807eea.PNG)  
+⁕ [YOUTUBE](https://www.youtube.com/watch?v=_LAnLuBtiI4&feature=youtu.be)
 
+## USEFUL
+```
+
+```
  
-
 ## REFER
 - 🍩[화면 설계](https://github.com/byeongjuPark/term_publishing/blob/master/docs/02.%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84_V1.0_Template_%EC%97%B0%EB%B3%91.pdf)
 - 🍮[요구사항 정의서](https://github.com/byeongjuPark/term_publishing/blob/master/docs/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C_%EC%97%B0%EB%B3%91.xlsx%20-%20(KHCAFE)1%EC%B0%A8%20%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
 
-## RUN
-- 🧇IMAGE & VIDEO  
-⁕ [Run_Image](https://user-images.githubusercontent.com/115052767/201248528-4afee6cd-4cf0-41d5-991c-568a8a7048e0.png)  
-⁕ [YOUTUBE](https://www.youtube.com/watch?v=timmqVt2nmc)
 
 ## THE END...
 - 🍞프로젝트 소감  
@@ -38,5 +41,6 @@
 - 🥯류연주 
 이전 프로젝트보다 간단하고 쉬울 거라고 생각했지만 막상 시작하고 나니 내가 머릿속으로 그린 모습대로 화면에 구현해 내는 것이 쉽지 않았지만 
 그래도 모르는 부분에 대해서 상의하고 도움을 받을 수 있어서 협업의 중요함도 다시 한 번 느낄 수 있었다.
+
 
 
