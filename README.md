@@ -16,7 +16,7 @@
 
 
 - 🥯류연주  
-● HTML : [Login](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/login.html) / [Signup](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/signup.html) / [End](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/end1.html) / [Survey]()  
+● HTML : [Login](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/login.html) / [Signup](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/signup.html) / [End](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/end1.html) / [Survey](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/survey.html)  
 
 
  
