@@ -20,9 +20,13 @@
 
 ## RUN
 - 🧇IMAGE & VIDEO  
-⁕ [Run_Image](https://user-images.githubusercontent.com/115052767/206595062-3bdbf8d9-ce38-47fd-b3bd-f167c9807eea.PNG)  
+### Using HTML, CSS
+⁕ [Run Pages](https://byeongjupark.github.io/term_publishing/)  
 ⁕ [YOUTUBE](https://www.youtube.com/watch?v=_LAnLuBtiI4&feature=youtu.be)
 
+### Using Bootstrap
+* [Run Pages](https://byeongjupark.github.io/term_publishing/bootstrap/index.html)
+* [YOUTUBE](https://youtu.be/_LAnLuBtiI4)
 ## USEFUL
 ```
  <!-- 드롭다운 기능 -->
