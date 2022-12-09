@@ -7,17 +7,17 @@
 서비스는 결국 매출과도 관련이 있기 때문에 서비스를 제공하는 측에서는 고객을 대상으로 한 설문조사가 필요할 것이라고 생각.  
 카페는 거의 모든 사람들이 일상적으로 이용하는 곳이기 때문에 서비스를 제공하는 측을 카페로 지정하여 카페 이용에 대한 서비스 만족도 설문조사로 주제를 선정.
 
-- 🥤프로젝트 진행 기간: 2022.11.10 ~ 2022.11.11
+- 🥤프로젝트 진행 기간: 2022.12.08 ~ 2022.12.09
 
 
 ## MEMBER & PART
 - 🥞박병주    
-● HTML : [Index](https://github.com/byeongjuPark/term_publishing/blob/master/index.html) / [Static(Answer)](https://github.com/byeongjuPark/term_publishing/blob/master/html/static_answer.html) / [Static(User)](https://github.com/byeongjuPark/term_publishing/blob/master/html/static_user.html)  / [Survey](https://github.com/byeongjuPark/term_publishing/blob/master/html/survey.html)  
-● CSS  : [Nav](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/nav.css) / [Section](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/section.css) / [Index](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/index.css) / [Statics](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/statics.css) / [Survey](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/survey.css)
+● [Index](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/index.html) / [Static(Answer)](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/static_answer.html) / [Static(User)](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/static_user.html)  / [Header&Footer](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/nav_footer.html)  
+
 
 - 🥯류연주  
-● HTML : [Login](https://github.com/byeongjuPark/term_publishing/blob/master/html/Login.html) / [Signup](https://github.com/byeongjuPark/term_publishing/blob/master/html/Signup.html) / [End](https://github.com/byeongjuPark/term_publishing/blob/master/html/End.html)  
-● CSS : [Login](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/Login.css) / [Signup](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/Signup.css) / [End](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/End.css) / [Dropdown](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/dropdown.css) / [footer](https://github.com/byeongjuPark/term_publishing/blob/master/style/css/footer.css)
+● HTML : [Login](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/login.html) / [Signup](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/signup.html) / [End](https://github.com/byeongjuPark/term_publishing/blob/master/bootstrap/end1.html) / [Survey]()  
+
 
  
 
