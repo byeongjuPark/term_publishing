@@ -25,7 +25,16 @@
 
 ## USEFUL
 ```
-
+ <!-- 드롭다운 기능 -->
+            <div class="btn-group">
+              <button class="btn dropdown-toggle" type="button" id="triggerId" data-bs-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                설문조사
+              </button>
+              <div class="dropdown-menu dropdown-menu-start" aria-labelledby="triggerId">
+                <a class="dropdown-item" href="./survey.html">설문조사</a>
+              </div>
+            </div>
 ```
  
 ## REFER
