@@ -21,8 +21,8 @@
 ## RUN
 - 🧇IMAGE & VIDEO  
 ### Using HTML, CSS
-⁕ [Run Pages](https://byeongjupark.github.io/term_publishing/)  
-⁕ [YOUTUBE](https://www.youtube.com/watch?v=_LAnLuBtiI4&feature=youtu.be)
+* [Run Pages](https://byeongjupark.github.io/term_publishing/)  
+* [YOUTUBE](https://www.youtube.com/watch?v=_LAnLuBtiI4&feature=youtu.be)
 
 ### Using Bootstrap
 * [Run Pages](https://byeongjupark.github.io/term_publishing/bootstrap/index.html)
